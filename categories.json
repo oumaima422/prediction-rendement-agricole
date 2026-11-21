@@ -1,0 +1,22 @@
+{
+    "Soil Type": [
+        "Clay",
+        "Loamy",
+        "Peaty",
+        "Sandy",
+        "Silty"
+    ],
+    "Weather Condition": [
+        "Cloudy",
+        "Rainy",
+        "Stormy",
+        "Sunny"
+    ],
+    "Crop Type": [
+        "Barley",
+        "Corn",
+        "Rice",
+        "Soybeans",
+        "Wheat"
+    ]
+}
