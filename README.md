@@ -131,7 +131,7 @@ Prediction-Rendement-Agricole/
 ### 1. Cloner le dépôt
 
 ```bash
-git clone URL_DU_DEPOT
+git clone https://github.com/oumaima422/prediction-rendement-agricole.git
 ```
 
 ### 2. Accéder au dossier
